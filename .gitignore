@@ -1,0 +1,8 @@
+# Файлы восстановленной базы SQL Server
+restore-data/
+*.mdf
+*.ldf
+*.ndf
+
+# Временные файлы
+*.tmp
