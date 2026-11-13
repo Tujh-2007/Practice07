@@ -1,0 +1,4 @@
+﻿table_name|row_count
+clients|4
+masters|4
+services|4
